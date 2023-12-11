@@ -111,7 +111,7 @@ const [loading , setLoading] = useState(true)
               className="flex justify-center items-center"
             >
               
-              Create your Blogs
+              create your Blogs
             </Link>
         </button>
       
